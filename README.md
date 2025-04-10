@@ -1,1 +1,2 @@
 # e-commerce
+sql queries
